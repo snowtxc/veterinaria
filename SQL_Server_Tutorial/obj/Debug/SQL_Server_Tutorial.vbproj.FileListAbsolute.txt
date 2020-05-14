@@ -1,0 +1,26 @@
+c:\users\bassel\documents\visual studio 2015\Projects\SQL_Server_Tutorial\SQL_Server_Tutorial\bin\Debug\SQL_Server_Tutorial.exe.config
+c:\users\bassel\documents\visual studio 2015\Projects\SQL_Server_Tutorial\SQL_Server_Tutorial\bin\Debug\SQL_Server_Tutorial.exe
+c:\users\bassel\documents\visual studio 2015\Projects\SQL_Server_Tutorial\SQL_Server_Tutorial\bin\Debug\SQL_Server_Tutorial.pdb
+c:\users\bassel\documents\visual studio 2015\Projects\SQL_Server_Tutorial\SQL_Server_Tutorial\bin\Debug\SQL_Server_Tutorial.xml
+c:\users\bassel\documents\visual studio 2015\Projects\SQL_Server_Tutorial\SQL_Server_Tutorial\obj\Debug\SQL_Server_Tutorial.vbprojResolveAssemblyReference.cache
+c:\users\bassel\documents\visual studio 2015\Projects\SQL_Server_Tutorial\SQL_Server_Tutorial\obj\Debug\SQL_Server_Tutorial.Form1.resources
+c:\users\bassel\documents\visual studio 2015\Projects\SQL_Server_Tutorial\SQL_Server_Tutorial\obj\Debug\SQL_Server_Tutorial.Resources.resources
+c:\users\bassel\documents\visual studio 2015\Projects\SQL_Server_Tutorial\SQL_Server_Tutorial\obj\Debug\SQL_Server_Tutorial.vbproj.GenerateResource.Cache
+c:\users\bassel\documents\visual studio 2015\Projects\SQL_Server_Tutorial\SQL_Server_Tutorial\obj\Debug\SQL_Server_Tutorial.exe
+c:\users\bassel\documents\visual studio 2015\Projects\SQL_Server_Tutorial\SQL_Server_Tutorial\obj\Debug\SQL_Server_Tutorial.xml
+c:\users\bassel\documents\visual studio 2015\Projects\SQL_Server_Tutorial\SQL_Server_Tutorial\obj\Debug\SQL_Server_Tutorial.pdb
+C:\Users\snowi\source\repos\SQL_Server_Tutorial\SQL_Server_Tutorial\obj\Debug\SQL_Server_Tutorial.vbprojAssemblyReference.cache
+C:\Users\snowi\source\repos\SQL_Server_Tutorial\SQL_Server_Tutorial\obj\Debug\SQL_Server_Tutorial.Form1.resources
+C:\Users\snowi\source\repos\SQL_Server_Tutorial\SQL_Server_Tutorial\obj\Debug\SQL_Server_Tutorial.Resources.resources
+C:\Users\snowi\source\repos\SQL_Server_Tutorial\SQL_Server_Tutorial\obj\Debug\SQL_Server_Tutorial.vbproj.GenerateResource.cache
+C:\Users\snowi\source\repos\SQL_Server_Tutorial\SQL_Server_Tutorial\obj\Debug\SQL_Server_Tutorial.vbproj.CoreCompileInputs.cache
+C:\Users\snowi\source\repos\SQL_Server_Tutorial\SQL_Server_Tutorial\obj\Debug\SQL_Server_Tutorial.exe
+C:\Users\snowi\source\repos\SQL_Server_Tutorial\SQL_Server_Tutorial\obj\Debug\SQL_Server_Tutorial.xml
+C:\Users\snowi\source\repos\SQL_Server_Tutorial\SQL_Server_Tutorial\obj\Debug\SQL_Server_Tutorial.pdb
+C:\Users\snowi\source\repos\SQL_Server_Tutorial\SQL_Server_Tutorial\bin\Debug\SQL_Server_Tutorial.exe.config
+C:\Users\snowi\source\repos\SQL_Server_Tutorial\SQL_Server_Tutorial\bin\Debug\SQL_Server_Tutorial.exe
+C:\Users\snowi\source\repos\SQL_Server_Tutorial\SQL_Server_Tutorial\bin\Debug\SQL_Server_Tutorial.pdb
+C:\Users\snowi\source\repos\SQL_Server_Tutorial\SQL_Server_Tutorial\bin\Debug\SQL_Server_Tutorial.xml
+C:\Users\snowi\source\repos\SQL_Server_Tutorial\SQL_Server_Tutorial\bin\Debug\MySql.Data.dll
+C:\Users\snowi\source\repos\SQL_Server_Tutorial\SQL_Server_Tutorial\bin\Debug\MySql.Data.xml
+C:\Users\snowi\source\repos\SQL_Server_Tutorial\SQL_Server_Tutorial\obj\Debug\SQL_Server_Tutorial.vbproj.CopyComplete
